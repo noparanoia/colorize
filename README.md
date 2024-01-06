@@ -6,7 +6,7 @@ Simple text colorize v implementation of https://github.com/TwiN/go-color
 ## Install
 
 ```bash
-  v install colorize
+  v install noparanoia.colorize
 ```
 
 Or
